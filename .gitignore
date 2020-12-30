@@ -1,0 +1,7 @@
+datasets/
+.idea/
+__pycache__/
+venv/
+db/*/*.csv
+src/runs
+experiments/
