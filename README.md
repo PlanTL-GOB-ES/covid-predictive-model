@@ -10,7 +10,7 @@ dynamic(current event) wrt. dynamic(all events) and both mechanisms).
 - Custom Loss function.
 
 ## RNN Architecture
-![alt text](https://github.com/PlanTL-SANIDAD/covid-predictive-model/blob/master/documentation/images/rnn.png "RNN Architecture")
+![alt text](https://raw.githubusercontent.com/PlanTL-SANIDAD/covid-predictive-model/main/documentation/images/rnn.png "RNN Architecture")
 
 ## Code Structure
 ```
@@ -91,4 +91,21 @@ split with the following command:
 ```
 (virtual-env) $ python3 ./training/split.py <path-to-parameter-specification> \
 <output_folder> --nsplits <N>
+```
+
+## Paper
+Cite our pre-print:
+```
+@article {Villegas2020.12.22.20244061,
+	author = {Villegas, Marta and Gonzalez-Agirre, Aitor and Guti{\'e}rrez-Fandi{\~n}o, Asier and Armengol-Estap{\'e}, Jordi and Carrino, Casimiro Pio and Fern{\'a}ndez, David P{\'e}rez and Soares, Felipe and Serrano, Pablo and Pedrera, Miguel and Garc{\'\i}a, Noelia and Valencia, Alfonso},
+	title = {Predicting the Evolution of COVID-19 Mortality Risk: a Recurrent Neural Network Approach},
+	elocation-id = {2020.12.22.20244061},
+	year = {2020},
+	doi = {10.1101/2020.12.22.20244061},
+	publisher = {Cold Spring Harbor Laboratory Press},
+	URL = {https://www.medrxiv.org/content/early/2020/12/23/2020.12.22.20244061},
+	eprint = {https://www.medrxiv.org/content/early/2020/12/23/2020.12.22.20244061.full.pdf},
+	journal = {medRxiv}
+}
+
 ```
