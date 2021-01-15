@@ -93,6 +93,9 @@ split with the following command:
 <output_folder> --nsplits <N>
 ```
 
+## Explainability
+![alt text](https://raw.githubusercontent.com/PlanTL-SANIDAD/covid-predictive-model/main/documentation/images/patient_dynamic_attention.gif "Patient Dynamic Attention")
+
 ## Paper
 Cite our pre-print:
 ```
