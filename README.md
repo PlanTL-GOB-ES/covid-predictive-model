@@ -113,6 +113,12 @@ Cite our pre-print:
 
 ```
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Copyright (c) 2020 Secretaría de Estado de Digitalización e Inteligencia Artificial (SEDIA)
+
 ## Disclaimer
 
 The models published in this repository are intended for a generalist purpose and are available to third parties. These models may have bias and/or any other undesirable distortions.
